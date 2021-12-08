@@ -1,0 +1,11 @@
+com\bits_reto2\Application.class
+com\bits_reto2\Service\LaptopsService.class
+com\bits_reto2\ControllerWeb\LaptopsControllerWeb.class
+com\bits_reto2\Model\Laptops.class
+com\bits_reto2\Repository\LaptosRepository.class
+com\bits_reto2\Repository\UserRepository.class
+com\bits_reto2\ControllerWeb\UserControllerWeb.class
+com\bits_reto2\Model\User.class
+com\bits_reto2\Repository\CrudRepository\LaptopsCrudRepository.class
+com\bits_reto2\Repository\CrudRepository\UserCrudRepository.class
+com\bits_reto2\Service\UserService.class
